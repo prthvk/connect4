@@ -1,1 +1,1 @@
-Connect4 gmae written in Java and layout design with JavaFX
+Connect4 game written in Java and layout design with JavaFX
